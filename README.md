@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">A AI/Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Ftech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394&psig=AOvVaw1RjQb2AB6s3PpF4u4svQ6a&ust=1666103710733000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKC7vd_n6PoCFQAAAAAdAAAAABAO">
 
 - 🌱 I’m currently learning **C++,Python**
 
