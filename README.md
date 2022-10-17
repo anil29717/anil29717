@@ -17,9 +17,6 @@
 <a href="https://www.codechef.com/users/anilkumar365" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anilkumar365" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anil29717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anil29717" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anilkumar_365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anilkumar_365" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/anil1876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="anil1876" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anil29717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anil29717" height="30" width="40" /></a>
-<a href="https://discord.gg/gen_anil01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gen_anil01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
