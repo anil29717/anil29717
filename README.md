@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
-<h3 align="center">A AI/Software developer from India</h3>
+<h3 align="center">AI/Software developer from India</h3>
 
 - I’m currently learning **C++,Python**
 
