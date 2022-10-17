@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">A AI/Software developer from India</h3>
 
-- 🌱 I’m currently learning **C++,Python**
+- I’m currently learning **C++,Python**
 
 - 📫 How to reach me **anil29717gmail.com**
 
-- ⚡ Fun fact **Code is Part of Life**
+- ⚡ Fun fact : **Code is Part of Life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
