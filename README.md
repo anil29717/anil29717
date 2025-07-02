@@ -61,7 +61,7 @@
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[anil29717]&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ### 🎯 Hackathon Victories
@@ -132,7 +132,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[anil29717]&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
   
   ### 💫 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
