@@ -97,7 +97,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[anil29717]&custom_title=Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anil29717&custom_title=Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
 </div>
 
 <br/>
