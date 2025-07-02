@@ -45,6 +45,19 @@
 
 <br/>
 
+## 📊 GitHub AnalyticsAdd commentMore actions
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anil29717&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFF&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anil29717&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFF&border_radius=10&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil29717&theme=algolia&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B35&currStreakLabel=FFF" />
+</div>
+
+<br/>
+
 ## 🏆 Achievements & Trophies
 
 <div align="center">
